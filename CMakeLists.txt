@@ -4,5 +4,6 @@ project(cs50 C)
 set(CMAKE_C_STANDARD 23)
 
 add_executable(cs50 main.c
-        1_ColumnOfBricks.c
-        2_DataTypes.c)
+        2_ColumnOfBricks.c
+        2_Arrays.c
+        2_Average.c)
